@@ -1,6 +1,6 @@
 # Node.js-File-System-Module
  
-### All Opreations Done With User Input
+### All Opreations Done With User Input In File :
 * Create Directory ( Hint: fs.mkdir )
 * Remove Directory ( Hint: fs.rmdir )
 * Write File
